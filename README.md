@@ -54,8 +54,8 @@ This project forecasts monthly sales for **two wine categories** — *Rose* and 
 
 ## 📊 Visual Forecasts
 
-![Rose Forecast](images/rose_forecast.png)
-![Sparkling Forecast](images/sparkling_forecast.png)
+![Rose Forecast](images/rose_forecast.PNG)
+![Sparkling Forecast](images/sparkling_forecast.PNG)
 
 > Forecast graphs created using Holt-Winters and SARIMA methods.
 
