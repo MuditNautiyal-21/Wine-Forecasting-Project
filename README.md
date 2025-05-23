@@ -77,4 +77,6 @@ This project forecasts monthly sales for **two wine categories** — *Rose* and 
 
 ## 📂 Folder Structure
 
-<pre><code> ``` Wine-Forecasting-Project/ ├── Rose/ │ ├── PROJECT_TSF_Rose_DATA_MODEL.ipynb │ └── Rose TSF PROJECT.pdf ├── Sparkling/ │ ├── PROJECT_TSF_Sparkling_DATA_MODEL.ipynb │ └── Sparkling TSF PROJECT.pdf ├── images/ │ ├── rose_forecast.PNG │ └── sparkling_forecast.PNG ├── README.md └── requirements.txt ``` </code></pre>
+<pre><code> ``` 
+  Wine-Forecasting-Project/ ├── Rose/ │ ├── PROJECT_TSF_Rose_DATA_MODEL.ipynb │ └── Rose TSF PROJECT.pdf ├── Sparkling/ │ ├── PROJECT_TSF_Sparkling_DATA_MODEL.ipynb │ └── Sparkling TSF PROJECT.pdf ├── images/ │ ├── rose_forecast.PNG │ └── sparkling_forecast.PNG ├── README.md └── requirements.txt 
+  ``` </code></pre>
