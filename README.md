@@ -81,9 +81,11 @@ This project forecasts monthly sales for **two wine categories** — *Rose* and 
 Wine-Forecasting-Project/
 ├── Rose/
 │   ├── PROJECT_TSF_Rose_DATA_MODEL.ipynb
-│   └── Rose TSF PROJECT.pdf
+│   ├── Rose.csv
+|   └── Rose TSF PROJECT.pdf
 ├── Sparkling/
 │   ├── PROJECT_TSF_Sparkling_DATA_MODEL.ipynb
+│   ├── Sparkling.csv
 │   └── Sparkling TSF PROJECT.pdf
 ├── images/
 │   ├── rose_forecast.PNG
